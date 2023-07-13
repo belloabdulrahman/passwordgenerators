@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../GameApp"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Scrimba"
+	}
+}
